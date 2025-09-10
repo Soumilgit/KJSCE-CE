@@ -33,17 +33,20 @@ Please dont forget to star 🌟 the repositories!
 |             | [Machine Learning Notes](https://github.com/Aatmaj-Zephyr/Machine-Learning-notes)   | ML handwritten notes                                              |
 | Final Year  | [Computer Simulation and Modelling](https://github.com/Aatmaj-Zephyr/CSM)           | CSM lab code & handwritten notes						|
 |             | [Reinforcement Learning Lab](https://github.com/Aatmaj-Zephyr/Reinforcement-learning-lab)| RL lab code. (Please refer ML notes repo for RL notes)	| 
-| 	      | [Software Arcitecture & Design Thinking](https://github.com/Aatmaj-Zephyr/SADT)     | SADT lab writeups & handwritten notes				|
+| 	          | [Software Architecture & Design Thinking](https://github.com/Aatmaj-Zephyr/SADT)     | SADT lab writeups & handwritten notes				|
 
 #### Drive Links
 
 Please access them from Somaiya Mail ID from desktop.
 
 1) Links to past year papers - https://drive.google.com/drive/folders/1RNFaYqhC2TZiy3xr0IBFxQ6YlD5DJD_7?usp=sharing
-2) Link to extra past year papers and solutions - https://drive.google.com/file/d/1o3loREE-ly2EnkbGrcfjYBXr-2796qfz/view?usp=sharing
+2) Link to extra past year papers and solutions - https://drive.google.com/file/d/1o3loREE-ly2EnkbGrcfjYBXr-2796qfz/view?usp=sharing (zip file hosted on drive, may need to click on 'download anyway')
 3) Link to AOA lab writeups and C++ code.
 https://drive.google.com/drive/folders/1aZdEPVMzT7xFUQlF3hUJbR86C7Yo0Sta 
 
+______
+## Want anything else?
+Mail me at aatmaj.mhatre@gmail.com
 ______
 
 ### Special thanks to:
